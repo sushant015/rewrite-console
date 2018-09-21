@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A4958306-0446-449C-96EF-9BB1EF7F3E05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RewriteOutput/Program.cs">
+    <Files>
+      <File FileName="RewriteOutput/Program.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RewriteOutput PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

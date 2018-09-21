@@ -1,0 +1,6 @@
+/Users/sushant/Desktop/app/RewriteOutput/RewriteOutput/bin/Debug/RewriteOutput.exe
+/Users/sushant/Desktop/app/RewriteOutput/RewriteOutput/bin/Debug/RewriteOutput.pdb
+/Users/sushant/Desktop/app/RewriteOutput/RewriteOutput/obj/x86/Debug/RewriteOutput.csprojAssemblyReference.cache
+/Users/sushant/Desktop/app/RewriteOutput/RewriteOutput/obj/x86/Debug/RewriteOutput.csproj.CoreCompileInputs.cache
+/Users/sushant/Desktop/app/RewriteOutput/RewriteOutput/obj/x86/Debug/RewriteOutput.exe
+/Users/sushant/Desktop/app/RewriteOutput/RewriteOutput/obj/x86/Debug/RewriteOutput.pdb
